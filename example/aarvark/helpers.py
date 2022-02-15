@@ -48,7 +48,7 @@ class Bar(TestCase):
         self.assertEquals("a", "b")
 
     def bar(self):
-        self.assertTrue("a", "b")
+        self.assertTrue(4, 4)
 
 value = 1,
 

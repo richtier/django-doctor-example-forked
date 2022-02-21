@@ -2,5 +2,5 @@ def test_a():
     assert True
 
 
-def test_a_two():
+def test_a():
     assert True
